@@ -1,5 +1,3 @@
-**MOBILE KEYBOARD OPTIMISER VERSION 1.7
-
 BACKGROUND
 The invention relates to the field of Human Computer Interaction, specifically virtual keyboard implementation for a text messaging system on smartphones, tablets and PCs.
 
