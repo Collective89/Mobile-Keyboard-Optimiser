@@ -1,4 +1,4 @@
-MOBILE KEYBOARD OPTIMISER VERSION 1.7
+//MOBILE KEYBOARD OPTIMISER VERSION 1.7
 
 BACKGROUND
 The invention relates to the field of Human Computer Interaction, specifically virtual keyboard implementation for a text messaging system on smartphones, tablets and PCs.
@@ -17,3 +17,5 @@ in words are also situated next to each other QWERTY words.
 However this design is redundant for virtual keyboards used in applications on mobile devices as people generally use a single digit to enter text using virtual keyboards and mobile devices and the most two 
 digits i.e. Both thumbs to type text messages and text using these virtual keyboards. It becomes apparent therefore that traditional QWERTY keyboard designs are not suited to the single digit letter entry that is 
 practised on virtual keyboards on mobile devices and that a new virtual keyboard layout design must be sought in order to allow for the entry of text optimally on mobile devices where the user is entering the text using a single digit.
+
+This version is written in C++ and SFML 2.4.1
